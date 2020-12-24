@@ -4,27 +4,39 @@
   
     
     <entry>
-      <title>如何制定一个合理的产品战略规划？</title>
-      <link href="/2019/03/26/ru-he-zai-nei-you-wai-huan-zhi-ji-zhi-ding-chu-yi-ge-he-li-de-chan-pin-zhan-lue-gui-hua/"/>
-      <url>/2019/03/26/ru-he-zai-nei-you-wai-huan-zhi-ji-zhi-ding-chu-yi-ge-he-li-de-chan-pin-zhan-lue-gui-hua/</url>
+      <title>JV天团</title>
+      <link href="/2020/12/24/jv-tian-tuan/"/>
+      <url>/2020/12/24/jv-tian-tuan/</url>
       
-        <content type="html"><![CDATA[<h1 id="JV-IS-COMING"><a href="#JV-IS-COMING" class="headerlink" title="JV IS COMING"></a>JV IS COMING</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 产品实战 </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<h1 id="JV-天团"><a href="#JV-天团" class="headerlink" title="JV 天团"></a>JV 天团</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
-        <tags>
-            
-            <tag> 产品规划 </tag>
-            
-            <tag> 战略规划 </tag>
-            
-        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JV 男神</title>
+      <link href="/2020/12/23/jv-nan-shen/"/>
+      <url>/2020/12/23/jv-nan-shen/</url>
+      
+        <content type="html"><![CDATA[<h1 id="JV-男神合集"><a href="#JV-男神合集" class="headerlink" title="JV 男神合集"></a>JV 男神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JV女神</title>
+      <link href="/2020/12/22/jv-nu-shen/"/>
+      <url>/2020/12/22/jv-nu-shen/</url>
+      
+        <content type="html"><![CDATA[<h1 id="JV-女神合集"><a href="#JV-女神合集" class="headerlink" title="JV 女神合集"></a>JV 女神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
       
     </entry>
     

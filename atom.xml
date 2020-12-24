@@ -2,41 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JV</title>
   
-  <subtitle>JV 一飞冲天</subtitle>
+  <subtitle>JV IS COMING</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-12-24T13:01:07.656Z</updated>
+  <updated>2020-12-24T13:50:26.559Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何制定一个合理的产品战略规划？</title>
-    <link href="http://allensucre.github.io/2019/03/26/ru-he-zai-nei-you-wai-huan-zhi-ji-zhi-ding-chu-yi-ge-he-li-de-chan-pin-zhan-lue-gui-hua/"/>
-    <id>http://allensucre.github.io/2019/03/26/ru-he-zai-nei-you-wai-huan-zhi-ji-zhi-ding-chu-yi-ge-he-li-de-chan-pin-zhan-lue-gui-hua/</id>
-    <published>2019-03-26T06:49:36.000Z</published>
-    <updated>2020-12-24T13:01:07.656Z</updated>
+    <title>JV天团</title>
+    <link href="http://allensucre.github.io/2020/12/24/jv-tian-tuan/"/>
+    <id>http://allensucre.github.io/2020/12/24/jv-tian-tuan/</id>
+    <published>2020-12-24T06:49:36.000Z</published>
+    <updated>2020-12-24T13:50:26.559Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="JV-IS-COMING"><a href="#JV-IS-COMING" class="headerlink" title="JV IS COMING"></a>JV IS COMING</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h1 id="JV-天团"><a href="#JV-天团" class="headerlink" title="JV 天团"></a>JV 天团</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;JV-IS-COMING&quot;&gt;&lt;a href=&quot;#JV-IS-COMING&quot; class=&quot;headerlink&quot; title=&quot;JV IS COMING&quot;&gt;&lt;/a&gt;JV IS COMING&lt;/h1&gt;&lt;script&gt;
-        document.querySe
+        &lt;h1 id=&quot;JV-天团&quot;&gt;&lt;a href=&quot;#JV-天团&quot; class=&quot;headerlink&quot; title=&quot;JV 天团&quot;&gt;&lt;/a&gt;JV 天团&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+ 
       
     
     </summary>
     
     
-      <category term="产品实战" scheme="http://allensucre.github.io/categories/%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JV 男神</title>
+    <link href="http://allensucre.github.io/2020/12/23/jv-nan-shen/"/>
+    <id>http://allensucre.github.io/2020/12/23/jv-nan-shen/</id>
+    <published>2020-12-23T06:49:36.000Z</published>
+    <updated>2020-12-24T13:50:12.043Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="JV-男神合集"><a href="#JV-男神合集" class="headerlink" title="JV 男神合集"></a>JV 男神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;JV-男神合集&quot;&gt;&lt;a href=&quot;#JV-男神合集&quot; class=&quot;headerlink&quot; title=&quot;JV 男神合集&quot;&gt;&lt;/a&gt;JV 男神合集&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-e
+      
+    
+    </summary>
     
     
-      <category term="产品规划" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92/"/>
     
-      <category term="战略规划" scheme="http://allensucre.github.io/tags/%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92/"/>
+  </entry>
+  
+  <entry>
+    <title>JV女神</title>
+    <link href="http://allensucre.github.io/2020/12/22/jv-nu-shen/"/>
+    <id>http://allensucre.github.io/2020/12/22/jv-nu-shen/</id>
+    <published>2020-12-22T06:49:36.000Z</published>
+    <updated>2020-12-24T13:53:39.158Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="JV-女神合集"><a href="#JV-女神合集" class="headerlink" title="JV 女神合集"></a>JV 女神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;JV-女神合集&quot;&gt;&lt;a href=&quot;#JV-女神合集&quot; class=&quot;headerlink&quot; title=&quot;JV 女神合集&quot;&gt;&lt;/a&gt;JV 女神合集&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-e
+      
+    
+    </summary>
+    
+    
     
   </entry>
   
