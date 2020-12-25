@@ -4,50 +4,61 @@
   <url>
     <loc>http://allensucre.github.io/2020/12/22/jv-nu-shen/</loc>
     
-    <lastmod>2020-12-24T13:53:39.158Z</lastmod>
+    <lastmod>2020-12-24</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/2020/12/24/jv-tian-tuan/</loc>
     
-    <lastmod>2020-12-24T13:50:26.559Z</lastmod>
+    <lastmod>2020-12-24</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/2020/12/23/jv-nan-shen/</loc>
     
-    <lastmod>2020-12-24T13:50:12.043Z</lastmod>
+    <lastmod>2020-12-24</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/about/index.html</loc>
     
-    <lastmod>2020-12-24T12:40:23.951Z</lastmod>
+    <lastmod>2020-12-24</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/contact/index.html</loc>
     
-    <lastmod>2020-02-22T03:54:53.642Z</lastmod>
+    <lastmod>2020-02-22</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/tags/index.html</loc>
     
-    <lastmod>2020-02-22T03:53:36.329Z</lastmod>
+    <lastmod>2020-02-22</lastmod>
     
   </url>
   
   <url>
     <loc>http://allensucre.github.io/categories/index.html</loc>
     
-    <lastmod>2020-02-22T03:52:37.276Z</lastmod>
+    <lastmod>2020-02-22</lastmod>
     
   </url>
+  
+
+  <url>
+    <loc>http://allensucre.github.io/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
   
 </urlset>
