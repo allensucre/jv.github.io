@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>BrightAce Studio</title>
+  <title>Jing&#39;AoTechnology</title>
   
-  <subtitle>BrightAce Studio</subtitle>
+  <subtitle>Jing&#39;AoTechnology</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://allensucre.github.io/</id>
   
   <author>
-    <name>BrightAce Studio</name>
+    <name>Jing&#39;AoTechnology</name>
     
   </author>
   
