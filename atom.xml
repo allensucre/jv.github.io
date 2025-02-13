@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BrightAce Studio</title>
+  
+  <subtitle>BrightAce Studio</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://allensucre.github.io/"/>
+  <updated>2025-02-12T13:56:36.356Z</updated>
+  <id>http://allensucre.github.io/</id>
+  
+  <author>
+    <name>BrightAce Studio</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>团队介绍</title>
+    <link href="http://allensucre.github.io/2020/12/24/tuan-dui-jie-shao/"/>
+    <id>http://allensucre.github.io/2020/12/24/tuan-dui-jie-shao/</id>
+    <published>2020-12-24T06:49:36.000Z</published>
+    <updated>2025-02-12T13:56:36.356Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="团队介绍"><a href="#团队介绍" class="headerlink" title="团队介绍"></a>团队介绍</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;团队介绍&quot;&gt;&lt;a href=&quot;#团队介绍&quot; class=&quot;headerlink&quot; title=&quot;团队介绍&quot;&gt;&lt;/a&gt;团队介绍&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+     
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>产品</title>
+    <link href="http://allensucre.github.io/2020/12/23/chan-pin-jie-shao/"/>
+    <id>http://allensucre.github.io/2020/12/23/chan-pin-jie-shao/</id>
+    <published>2020-12-23T06:49:36.000Z</published>
+    <updated>2025-02-12T13:56:17.450Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="JV-男神合集"><a href="#JV-男神合集" class="headerlink" title="JV 男神合集"></a>JV 男神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;JV-男神合集&quot;&gt;&lt;a href=&quot;#JV-男神合集&quot; class=&quot;headerlink&quot; title=&quot;JV 男神合集&quot;&gt;&lt;/a&gt;JV 男神合集&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-e
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>愿景</title>
+    <link href="http://allensucre.github.io/2020/12/22/yuan-jing/"/>
+    <id>http://allensucre.github.io/2020/12/22/yuan-jing/</id>
+    <published>2020-12-22T06:49:36.000Z</published>
+    <updated>2025-02-12T13:56:38.375Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我们的愿景"><a href="#我们的愿景" class="headerlink" title="我们的愿景"></a>我们的愿景</h1><p>相关内容介绍</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;我们的愿景&quot;&gt;&lt;a href=&quot;#我们的愿景&quot; class=&quot;headerlink&quot; title=&quot;我们的愿景&quot;&gt;&lt;/a&gt;我们的愿景&lt;/h1&gt;&lt;p&gt;相关内容介绍&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.gi
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
