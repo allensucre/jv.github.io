@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2025-02-12T13:56:36.356Z</updated>
+  <updated>2025-02-13T03:21:33.349Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -18,43 +18,18 @@
   
   <entry>
     <title>团队介绍</title>
-    <link href="http://allensucre.github.io/2020/12/24/tuan-dui-jie-shao/"/>
-    <id>http://allensucre.github.io/2020/12/24/tuan-dui-jie-shao/</id>
+    <link href="http://allensucre.github.io/2020/12/24/teamintroduction/"/>
+    <id>http://allensucre.github.io/2020/12/24/teamintroduction/</id>
     <published>2020-12-24T06:49:36.000Z</published>
-    <updated>2025-02-12T13:56:36.356Z</updated>
+    <updated>2025-02-13T03:21:33.349Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="团队介绍"><a href="#团队介绍" class="headerlink" title="团队介绍"></a>团队介绍</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;团队介绍&quot;&gt;&lt;a href=&quot;#团队介绍&quot; class=&quot;headerlink&quot; title=&quot;团队介绍&quot;&gt;&lt;/a&gt;团队介绍&lt;/h1&gt;&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-     
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>产品</title>
-    <link href="http://allensucre.github.io/2020/12/23/chan-pin-jie-shao/"/>
-    <id>http://allensucre.github.io/2020/12/23/chan-pin-jie-shao/</id>
-    <published>2020-12-23T06:49:36.000Z</published>
-    <updated>2025-02-12T13:56:17.450Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="JV-男神合集"><a href="#JV-男神合集" class="headerlink" title="JV 男神合集"></a>JV 男神合集</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h1 id="Team-Introduction"><a href="#Team-Introduction" class="headerlink" title="Team Introduction"></a>Team Introduction</h1><p><strong>Team Introduction</strong><br>Our team consists of experienced developers from top-tier internet companies, bringing a wealth of technical expertise and sharp market insights. When developing each product, we adhere to a spirit of excellence, aiming to solve real-world problems through innovative technology and user-centered design. We focus not only on the technical implementation of our products but also on the user experience and market feedback, striving to deliver products that bring genuine value to our users.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;JV-男神合集&quot;&gt;&lt;a href=&quot;#JV-男神合集&quot; class=&quot;headerlink&quot; title=&quot;JV 男神合集&quot;&gt;&lt;/a&gt;JV 男神合集&lt;/h1&gt;&lt;script&gt;
-        document.querySelectorAll(&#39;.github-e
+        &lt;h1 id=&quot;Team-Introduction&quot;&gt;&lt;a href=&quot;#Team-Introduction&quot; class=&quot;headerlink&quot; title=&quot;Team Introduction&quot;&gt;&lt;/a&gt;Team Introduction&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Te
       
     
     </summary>
@@ -65,20 +40,18 @@
   
   <entry>
     <title>愿景</title>
-    <link href="http://allensucre.github.io/2020/12/22/yuan-jing/"/>
-    <id>http://allensucre.github.io/2020/12/22/yuan-jing/</id>
+    <link href="http://allensucre.github.io/2020/12/22/ourvision/"/>
+    <id>http://allensucre.github.io/2020/12/22/ourvision/</id>
     <published>2020-12-22T06:49:36.000Z</published>
-    <updated>2025-02-12T13:56:38.375Z</updated>
+    <updated>2025-02-13T03:23:02.766Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我们的愿景"><a href="#我们的愿景" class="headerlink" title="我们的愿景"></a>我们的愿景</h1><p>相关内容介绍</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h1 id="Our-Vision"><a href="#Our-Vision" class="headerlink" title="Our Vision"></a>Our Vision</h1><p><strong>Our Vision</strong><br>We are committed to enhancing users’ digital life experiences through technological innovation and design-driven solutions. Our vision is to create a series of easy-to-use, creative tools that help users capture moments, showcase themselves, and connect with the world. Whether for individual users or business clients, we aim to empower them through our products, enabling everyone to freely express themselves and create in the digital age.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;我们的愿景&quot;&gt;&lt;a href=&quot;#我们的愿景&quot; class=&quot;headerlink&quot; title=&quot;我们的愿景&quot;&gt;&lt;/a&gt;我们的愿景&lt;/h1&gt;&lt;p&gt;相关内容介绍&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.gi
+        &lt;h1 id=&quot;Our-Vision&quot;&gt;&lt;a href=&quot;#Our-Vision&quot; class=&quot;headerlink&quot; title=&quot;Our Vision&quot;&gt;&lt;/a&gt;Our Vision&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Our Vision&lt;/strong&gt;&lt;br&gt;We are 
       
     
     </summary>
