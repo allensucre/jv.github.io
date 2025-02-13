@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2025-02-13T03:21:33.349Z</updated>
+  <updated>2025-02-13T05:33:48.687Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>团队介绍</title>
+    <title>Team Introduction</title>
     <link href="http://allensucre.github.io/2020/12/24/teamintroduction/"/>
     <id>http://allensucre.github.io/2020/12/24/teamintroduction/</id>
     <published>2020-12-24T06:49:36.000Z</published>
-    <updated>2025-02-13T03:21:33.349Z</updated>
+    <updated>2025-02-13T05:33:48.687Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Team-Introduction"><a href="#Team-Introduction" class="headerlink" title="Team Introduction"></a>Team Introduction</h1><p><strong>Team Introduction</strong><br>Our team consists of experienced developers from top-tier internet companies, bringing a wealth of technical expertise and sharp market insights. When developing each product, we adhere to a spirit of excellence, aiming to solve real-world problems through innovative technology and user-centered design. We focus not only on the technical implementation of our products but also on the user experience and market feedback, striving to deliver products that bring genuine value to our users.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -39,11 +39,33 @@
   </entry>
   
   <entry>
-    <title>愿景</title>
+    <title>Product Introduction</title>
+    <link href="http://allensucre.github.io/2020/12/23/productintroduction/"/>
+    <id>http://allensucre.github.io/2020/12/23/productintroduction/</id>
+    <published>2020-12-23T06:49:36.000Z</published>
+    <updated>2025-02-13T05:33:45.553Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h1><p><strong>SnapWow</strong>  </p><p>SnapWow is an innovative watermark camera app designed to help users automatically add multi-dimensional information such as time, location, and weather to their photos. With its intelligent watermark feature, users can capture the unique context of each moment, turning every photo into a connection to time and memories. SnapWow’s clean, intuitive design aims to provide a smooth shooting experience while enriching the depth and emotional value of photo documentation.</p><p>-–</p><p><strong>LinkFans</strong>  </p><p>LinkFans is a Linktree tool designed specifically for the image domain, allowing users to quickly and conveniently integrate multiple image links into a beautiful personal homepage. Whether it’s showcasing a portfolio, social media links, or other image content, LinkFans offers a clear and organized display platform that helps users enhance their personal brand influence and online presence.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Product-Introduction&quot;&gt;&lt;a href=&quot;#Product-Introduction&quot; class=&quot;headerlink&quot; title=&quot;Product Introduction&quot;&gt;&lt;/a&gt;Product Introduction&lt;/h1&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Our Vision</title>
     <link href="http://allensucre.github.io/2020/12/22/ourvision/"/>
     <id>http://allensucre.github.io/2020/12/22/ourvision/</id>
     <published>2020-12-22T06:49:36.000Z</published>
-    <updated>2025-02-13T03:23:02.766Z</updated>
+    <updated>2025-02-13T05:33:36.497Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Our-Vision"><a href="#Our-Vision" class="headerlink" title="Our Vision"></a>Our Vision</h1><p><strong>Our Vision</strong><br>We are committed to enhancing users’ digital life experiences through technological innovation and design-driven solutions. Our vision is to create a series of easy-to-use, creative tools that help users capture moments, showcase themselves, and connect with the world. Whether for individual users or business clients, we aim to empower them through our products, enabling everyone to freely express themselves and create in the digital age.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     

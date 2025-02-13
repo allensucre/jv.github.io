@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>团队介绍</title>
+      <title>Team Introduction</title>
       <link href="2020/12/24/teamintroduction/"/>
       <url>2020/12/24/teamintroduction/</url>
       
@@ -17,7 +17,20 @@
     
     
     <entry>
-      <title>愿景</title>
+      <title>Product Introduction</title>
+      <link href="2020/12/23/productintroduction/"/>
+      <url>2020/12/23/productintroduction/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h1><p><strong>SnapWow</strong>  </p><p>SnapWow is an innovative watermark camera app designed to help users automatically add multi-dimensional information such as time, location, and weather to their photos. With its intelligent watermark feature, users can capture the unique context of each moment, turning every photo into a connection to time and memories. SnapWow’s clean, intuitive design aims to provide a smooth shooting experience while enriching the depth and emotional value of photo documentation.</p><p>-–</p><p><strong>LinkFans</strong>  </p><p>LinkFans is a Linktree tool designed specifically for the image domain, allowing users to quickly and conveniently integrate multiple image links into a beautiful personal homepage. Whether it’s showcasing a portfolio, social media links, or other image content, LinkFans offers a clear and organized display platform that helps users enhance their personal brand influence and online presence.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Our Vision</title>
       <link href="2020/12/22/ourvision/"/>
       <url>2020/12/22/ourvision/</url>
       
